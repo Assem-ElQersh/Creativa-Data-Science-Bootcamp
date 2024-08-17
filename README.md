@@ -31,3 +31,7 @@ To set up your environment, you can use the following command to install the req
 
 ```bash
 pip install -r requirements.txt
+```
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Assem-ElQersh/Creativa-Data-Science-Bootcamp/blob/main/LICENSE) file for details.

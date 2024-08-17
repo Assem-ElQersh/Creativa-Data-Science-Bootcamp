@@ -1,0 +1,11 @@
+,Name,Age,Salary,Joining_Date,Department,Experience,Rating,Notes
+0,Alice,25,50000.0,2023-01-01,HR,2.0,5,Good
+1,Bob,,60000.0,2023-02-30,Engineering,3.0,4,Average
+2,Charlie,30,55000.0,2023-03-15,Engineering,2.0,4,Good
+3,Alice,25,50000.0,2023-01-01,HR,2.0,5,Good
+4,Eve,40,,2023-04-01,Marketing,5.0,2,
+5,Bob,30,60000.0,2023-02-28,Engineering,,4,Excellent
+6,,35,52000.0,2023-03-01,HR,4.0,3,Average
+7,Grace,22,48000.0,2023-02-30,Sales,1.0,5,Excellent
+8,Hannah,29,47000.0,2023-03-15,Marketing,3.0,3,Average
+9,Ivy,Unknown,60000.0,2023-04-01,,3.0,4,Good

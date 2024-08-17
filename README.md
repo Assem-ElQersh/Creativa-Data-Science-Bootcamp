@@ -6,7 +6,7 @@ Welcome to the repository containing the Jupyter notebooks from the Creativa Dat
 
 This repository includes notebooks from sessions 2 to 5 of the bootcamp, which cover the following topics:
 
-- **Session 1: Getting started with python for Data Science**
+- **Session 1: Getting Started with Python for Data Science**
   Introducing Python and exploring the different types of data, and different fields that deal with data.
 
 - **Session 2: Pandas and Data Cleaning**  
